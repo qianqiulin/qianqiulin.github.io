@@ -4,10 +4,10 @@ title:      "CentOS 7 安装tesseract-ocr"
 subtitle:   "ocr"
 date:       2019-09-13 21:58:11
 author:     "TyurinTsien"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/post-bg/python-01.jpg"
 catalog: true
 tags:
-    - Centos
+    - Python
 ---
 
 
